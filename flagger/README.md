@@ -1,4 +1,4 @@
-# Flagger Demonstration
+# Flagger Demo
 This directory contains the example materials used in the Flagger demonstration that is part of the LinkedIn Learning course `GitOps Foundations`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 In this demonstration we use a canary deployment to progressively deliver a containerized application onto an AKS Kubernetes cluster using Flagger.
